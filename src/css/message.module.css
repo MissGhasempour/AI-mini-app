@@ -1,0 +1,11 @@
+
+textarea {
+  border: 1px solid;
+  border-radius: 5px;
+  resize: none;
+}
+
+.submit {
+  margin: 20px 0;
+  width: 50%;
+}
